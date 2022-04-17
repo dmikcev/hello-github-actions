@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-sh -c "echo Hello world my name is $INPUT_MY_NAME"
+sh -c "echo THIS EPIC HAX BROT 2 U BY $INPUT_MY_NAME"
